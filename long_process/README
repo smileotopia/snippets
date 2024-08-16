@@ -1,0 +1,7 @@
+This is an example of launching a long process from a REST API
+
+Cases
+1. Not running, start running
+2. Running, request start but fail
+3. Exit while running
+
